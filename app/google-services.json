@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533148043023",
+    "firebase_url": "https://roadforyou-1d5f1-default-rtdb.firebaseio.com",
+    "project_id": "roadforyou-1d5f1",
+    "storage_bucket": "roadforyou-1d5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533148043023:android:5f80033199fea394d3607a",
+        "android_client_info": {
+          "package_name": "com.example.roadforyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533148043023-nisve7peqkd302i5u7ucne97q1hbsma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOaNevt_TrK25GkgPNEuPZm7yCtipbVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533148043023-nisve7peqkd302i5u7ucne97q1hbsma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
